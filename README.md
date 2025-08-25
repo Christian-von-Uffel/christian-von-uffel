@@ -5,12 +5,10 @@
 -->
 I'm currently building [FilmsForMe.com](https://www.filmsforme.com), an open-source and ads-free movie recommendations platform.
 
-Previously I designed and built a number of web apps:
+Previously I've built a number of web apps:
 - a privacy tool that removes tracking codes from URLs [RemoveTrackingCodes.com](https://www.RemoveTrackingCodes.com)
-- what may be the easiest way to create pie charts on the web [ChartSimply.com](https://www.ChartSimply.com) 
-- a tool that evaluates hypothetical crypto investments [IfYouBoughtCryptoWhen.com](https://www.IfYouBoughtCryptoWhen.com)
-- a chrome extension that helps judge books when they have few reviews [IsThisBookGood.com](https://www.IsThisBookGood.com)
+- a tool to create pie charts on the web [ChartSimply.com](https://www.ChartSimply.com) 
+- a tool that values hypothetical crypto investments [IfYouBoughtCryptoWhen.com](https://www.IfYouBoughtCryptoWhen.com)
+- a chrome extension that helps people vet books when they have few reviews [IsThisBookGood.com](https://www.IsThisBookGood.com)
 
-Currently, I'm teaching myself the basics of back-end, learning how to work with Firebase and Supabase, etc.
-
-When I'm not trying to improve my coding and design skills, you can find me bouldering at [Austin Bouldering Project](https://austinboulderingproject.com/), grilling steak, and [hanging out by the pool](https://www.austintexas.gov/department/barton-springs-pool)
+Currently, I'm teaching myself the basics of back-end, learning how to work with Supabase, etc.
